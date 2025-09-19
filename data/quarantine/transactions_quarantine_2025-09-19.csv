@@ -1,0 +1,6 @@
+transaction_id,user_id,timestamp,amount,currency,payment_method,country,device,is_chargeback
+txn_000114,u_0142,2024-10-25T00:30:09,556.24,HUF,debit_card,,mobile,0
+txn_000427,u_0300,2025-01-08T07:08:12,661.01,USD,paypal,,mobile,0
+txn_000452,u_0248,2024-10-31T10:15:19,105.44,EUR,credit_card,,mobile,0
+txn_000717,u_0165,2025-02-23T02:49:58,381.99,USD,bank_transfer,,desktop,0
+txn_000719,u_0229,2025-01-02T23:06:05,487.32,EUR,debit_card,,desktop,0
